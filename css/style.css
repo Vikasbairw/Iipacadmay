@@ -1,0 +1,661 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+.menulist:hover a{
+ color:#00a8ec;
+text-decoration: underline;
+}
+
+/* home start */
+.homeimage img{
+    width:830px;
+    height:440px;
+    margin-left:30px;
+}
+.homediv{
+    width:170px;
+    height:50px;
+    background-color: #f1f0ef;
+    color:#00a8ec;
+    font:30px arial;
+    margin-left:30px;
+    text-align: center;
+    font-weight: bold;
+}
+.homecurser-box {
+    width: 100%;
+    height: 260px;
+    padding: 7px 0px 0px 21px;
+
+}
+
+.curser-box-left {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(188, 113, 21);
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.homeicon{
+    width: 415px;
+    height: 100%;
+   text-align: center;
+    float: left;
+}
+
+.img_cls {
+    float: left;
+    width: 34px;
+    height: 34px;
+    background-color: #e6611c;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.php-text {
+    float: left;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.icon{
+    padding-left:40px;
+
+}
+
+.iconp h3 {
+   float: left;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.iconp {
+    width: 415px;
+    height: 50px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+.iconpy {
+    width: 415px;
+    height: 50px;
+    margin-bottom: 15px;
+    float: left;
+}
+.partwork{
+    width: 1150px;
+    height: 40px;
+    background-color: #f4f2f0;
+    padding: 10px 20px 15px 0px;
+    word-spacing:10px;
+   
+}
+.partwork h1{
+    text-align: center;
+    font-size: 30px;
+    padding-right:315px;
+    font-weight: bold;
+    color: #00a8ec;
+}
+
+/*home end*/
+.main {
+    width: 1170px;
+    height: 1430px;
+    background-color: white;
+    margin: auto;
+}
+
+.web {
+    width: 1170px;
+    height: 40px;
+    background-color: rgb(44, 42, 42);
+}
+
+.image {
+    margin: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+}
+
+.head {
+    padding-top: 0px;
+    padding-left: 5px;
+    color: white;
+    font-size: 30px;
+    float: left;
+}
+
+.info {
+    padding-top: 10px;
+    padding-left: 540px;
+    float: left;
+}
+
+.heading {
+    color: white;
+    margin: 0px;
+   
+    font-size: 30px;
+}
+
+.box2 {
+    width: 1170px;
+    height: 140px;
+    background-color: white;
+}
+
+.box1 {
+    width: 165px;
+    height: 140px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.box1 img {
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+    width: 900px;
+    height: 140px;
+    float: left;
+
+}
+
+.box a {
+    margin-left: 45px;
+
+}
+.menulist{
+    float: left;
+    font-size:20px;
+}
+
+.box3 {
+    width: 1130px;
+    height: 851px;
+    background-color:white;
+    border:20px solid  #f1f0ef;
+    border-bottom:none;
+  
+}
+
+.box4 {
+    width: 260px;
+    height: 800px;
+    float: left;
+}
+
+.box4_1 {
+    width: 258px;
+    height: 400px;
+    margin-left:20px;
+}
+.box4_2 {
+    width: 256px;
+    height: 265px;
+    border: 1px solid black;
+    border-top:none;
+    margin-left:20px;
+}
+.box4_3 {
+    width: 258px;
+    height: 98px;
+    border: 1px solid black;
+}
+.box5 {
+    width: 850px;
+    height: 800px;
+    float: left;
+    margin-left: 10px;
+    
+}
+.div6{
+    font-family:
+	Arial;
+}
+.images {
+    width: 100%;
+    height: 710px;
+}
+.block img {
+    width: 235px;
+    height: 180px;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    padding-top: 10px;
+}
+.text1 h2 {
+    height: 37px;
+    padding-top: 4px;
+    background-color: rgb(78, 102, 124);
+    text-align: center;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.imageblock1 {
+    width: 235px;
+    height: 710px;
+    background-color: white;
+    float: left;
+    margin-left: 30px;
+}
+.imageblock2 {
+    width: 235px;
+    height: 710px;
+    background-color: white;
+    float: left;
+    margin-left: 40px;
+}
+.imageblock3 {
+    width: 235px;
+    height: 710px;
+    background-color: white;
+    float: left;
+    margin-left: 40px;
+}
+.bi {
+    padding-top: 96px;
+    padding-left: 30px;
+}
+.div {
+    background-color: #00a8ec;
+    color:white;
+    font: 20px arial;
+    text-align: center;
+    padding: 12px;
+    margin-top: 20px;
+    
+}
+.bo4_1 h1 {
+    background-color: #ef9c00;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 15px;
+    color:white;
+     font:20px arial;
+     padding-bottom:15px;
+    
+}
+.bo4_1{
+    
+    width: 258px;
+   
+    margin-left:20px;
+}
+
+.listimage img{
+    width:11px;
+    height:12px;
+    float:left;
+    border-radius:50%;
+    margin:17px 12px 6px 15px ;
+    
+}
+.listmenu{
+    list-style:none;
+    line-height:45px;
+    font-size:20px;
+
+}
+.box5_1 {
+    width: 850px;
+    height: 70px;
+    padding-top: 32px;
+    margin-bottom: -20px;
+    /* border:1px solid black; */
+}
+.box5_2 {
+    font-size: 15px;
+    float: left;
+    padding-right: 500px;
+    padding-left: 29px;
+}
+.box5_3 {
+    font-size: 25px;
+    color: rgb(75, 143, 143);
+    font-style: italic;
+}
+.allimage img {
+    margin: 0px;
+    width: 255px;
+    height: 170px;
+    border-radius: 10px;
+    margin: auto;
+
+}
+.footer {
+    width: 1170px;
+    height: 320px;
+    background-color: rgb(81, 78, 78);
+}
+.footer2 h1 {
+    color: rgb(234, 226, 226);
+    text-align:left;
+}
+.footer1_1 {
+    margin: 13px;
+    width: 295px;
+    height: 295px;
+    float: left;
+    padding-left:20px;
+}
+.footer1_1 h1 {
+    color:  rgb(234, 226, 226);
+    padding-top: 10px;
+    padding-left: 52px;
+}
+
+.margin {
+    color: rgb(246, 243, 243);
+    text-align: left;
+    margin-top: 18px;
+    padding-left:52px;
+   
+}
+ .margin1{
+    padding-left:10px;
+    float:left;
+    padding-top: 10px;
+
+}
+
+.footer2 {
+    float: left;
+    width: 250px;
+    height: 295px;
+    color: white;
+    /* border:2px solid red; */
+    margin: 10px;
+}
+
+
+h3 {
+    padding-right: 15px;
+    font-size: 15px;
+    color: rgb(233, 237, 237);
+}
+
+.top {
+    padding-top: 53px;
+}
+
+.margin2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.footerrow {
+    width: 1170px;
+    height: 70px;
+    background-color: rgb(48, 45, 45);
+}
+
+.copy {
+    color: white;
+    font-size: 25px;
+    padding-top: 16px;
+    padding-left: 484px;
+}
+/*enquary form open*/
+.forms {
+    width: 100%;
+    height: 630px;
+    background-color:rgba(299, 222, 222, 0);
+}
+.formgender{
+    padding-top:10px;
+    width:100%;
+    height:50px;
+}
+.form{
+    float:left;
+    width:125px;
+    height:100%;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    font-weight:bold;
+    margin-left:35px;
+}
+.mf{
+    float:left;
+  
+}
+textarea{
+
+    width:300px;
+    height:50px;
+}
+.name input{
+    width:300px;
+    height:30px;
+}
+.sendbutton{
+   padding:25px 0px 0px 70px;
+   
+}
+.button{
+   background-color: #09F;
+   padding:8px 26px 11px 21px;
+   font-size:14px;
+ font-family: Arial, Helvetica, sans-serif;
+ border-radius:15px;
+ color:white;
+ cursor: pointer;
+}
+/*enquary part end*/
+/* course part start */
+.coursesicon1{
+    width:250px;
+    height:758px;
+  background-color:white;
+   float:left;
+   margin-left:25px;
+}
+.coursesicon2{
+    width:250px;
+    height:758px;
+  background-color:white;
+   float:left;
+   margin-left:25px;
+}
+.coursesicon3{
+    width:250px;
+    height:758px;
+  background-color:white;
+   float:left;
+   margin-left:25px;
+}
+.coursesimage{
+    width:185px;
+    height:150px;
+    background-color: #e6611c;
+    padding:10px 0px 0px 49px; 
+    border-top-left-radius:15px;
+  border-top-right-radius:15px;
+}
+.imagecurcile{
+    width:100px;
+    height:100px;
+    border:10px white solid;
+    margin:0px 0px 0px 0px;
+    border-radius:50%;
+}
+.coursesimage img{
+    padding: 18%;
+}
+.coursetext{
+    width:232px;
+    height:62px;
+    border:1px solid  #e6611c;
+    border-top:none;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+    margin-bottom:22px;
+}
+.coursetext h2{
+    font-size:17px;
+    text-align:  center;
+    padding-top:20px;
+}
+.font{
+    color:#e6611c;
+}
+.color1{
+    background-color: #308a7c;
+}
+.font1{
+    border:1px solid #308a7c;
+    color:#308a7c;
+}
+.color2{
+    background-color:#5e5da4;
+}
+.font2{
+    border:1px solid #5e5da4;
+    color:#5e5da4;
+}
+ .background3img{
+  
+    background-color:#5e5da4;
+  
+}
+.font3{
+    border:1px solid #7bb1e0;
+    color:#7bb1e0;
+}
+.color3{
+    background-color:#89c222;
+}
+.font4{
+    border:1px solid #89c222;;
+    color:#89c222;
+}
+.color4{
+    background-color:#e6611c;
+}
+.font5{
+    border:1px solid #e6611c;
+    color:#e6611c;  
+}
+.font6{
+    border:1px solid #5e5da4;
+    color:#5e5da4
+    
+}
+.color5{
+    background-color:#d60726
+}
+.font7{
+    border:1px solid #d60726;
+    color:#d60726;  
+}
+.color6{
+    background-color:darkgreen;
+}
+.font8{
+    border:1px solid darkgreen;
+    color:darkgreen;  
+}
+
+/*courses part end*/
+/*contact page start*/
+.contact{
+    width:800px;
+    height:250px;
+    margin-left:30px;
+    margin-top:20px;
+    margin-bottom:15px;
+}
+.imagephone{
+    width:400px;
+    height: 100%;
+    float:left;
+}
+.imagephone img{
+margin-top: 17px;
+margin-left:150px;
+margin-bottom:15px;
+}
+.contacttext h2{
+    color:rgb(55, 50, 50);
+    text-align:left;
+    opacity:0.9 ;
+}
+.contacttext h3{
+    color:rgb(55, 50, 50);
+    text-align:center;
+    opacity:0.9 ;
+    font-size: 20px;
+}
+.contacttext a{
+    color:#09F;
+    font-size:20px;
+}
+.imageaddress{
+    width:400px;
+    height:100%;
+    float:left;
+}
+.imageaddress  img{
+    margin-top: 17px;
+    margin-left:150px;
+    margin-bottom:15px;
+}
+address{
+    font-style:normal;
+    font-weight:bold;
+    font-size:24px;
+    opacity:0.9;
+}
+.address{
+    margin-left:50px;
+}
+.contacth1{
+    letter-spacing:3px;
+    font-size:20px;
+    padding-left:25px;
+}
+.map img{
+   margin-left:32px;
+    width:800px;
+    height:377px;
+    
+}
+/*contact page end*/
+/*about page start*/
+.aboutlist li{
+    text-align:left;
+    font-size:18px;
+   
+}
+.aboutlist ol{
+    margin-left:14px;
+}
+.aboutpage{
+    padding-left:25px;
+}
+.aboutpage p{
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:18px;
+    padding-right:20px;
+}
+/*about page end*/
